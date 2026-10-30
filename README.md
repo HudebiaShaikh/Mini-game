@@ -55,5 +55,4 @@ lib/
 ## Tools
 Flutter, Dart, shared_preferences. The screens use `StatefulWidget` and `setState`.
 
-## License
-MIT – see LICENSE.
+
